@@ -25,6 +25,9 @@ body {
 .wrapper {
   display: inline-flex;
   list-style: none;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
 }
 
 .wrapper .icon {
